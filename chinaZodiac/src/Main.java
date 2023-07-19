@@ -1,50 +1,53 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        String horoscope = "";
 
+        Scanner input = new Scanner(System.in);
         System.out.print("Which year were you born in? ");
         int year = input.nextInt();
 
         switch (year % 12) {
             case 0:
-                System.out.print("Monkey");
+                horoscope = "Monkey";
                 break;
             case 1:
-                System.out.print("Rooster");
+                horoscope = "Rooster";
                 break;
             case 2:
-                System.out.print("Dog");
+                horoscope = "Dog";
                 break;
             case 3:
-                System.out.print("Pig");
+                horoscope = "Pig";
                 break;
             case 4:
-                System.out.print("Rat");
+                horoscope = "Rat";
                 break;
             case 5:
-                System.out.print("Ox");
+                horoscope = "Ox";
                 break;
             case 6:
-                System.out.print("Tiger");
+                horoscope = "Tiger";
                 break;
             case 7:
-                System.out.print("Rabbit");
+                horoscope = "Rabbit";
                 break;
             case 8:
-                System.out.print("Dragon");
+                horoscope = "Dragon";
                 break;
             case 9:
-                System.out.print("Snake");
+                horoscope = "Snake";
                 break;
             case 10:
-                System.out.print("Horse");
+                horoscope = "Horse";
                 break;
             case 11:
-                System.out.print("Goat");
+                horoscope = "Goat";
                 break;
             default:
                 System.out.print("Error: Invalid year.");
         }
+
+        System.out.print("You're a " + horoscope + " in China Zodiac.");
     }
 }
