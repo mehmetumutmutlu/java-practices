@@ -1,23 +1,21 @@
 import java.util.Scanner;
 
 public class Main {
-    static void power(int base, int exp) {
-        int result = 1;
-        if (exp != 0) {
-            for (int i = 1; i <= exp; i++) {
-                result *= base;
-            }
+    static int power(int base, int exp) {
+        if (exp == 0) {
+            return 1;
         }
-        System.out.println("The result: " + result);
+        return base * power(base, exp - 1);
     }
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.print("Please enter the base value: ");
+        System.out.print("Please input the base value: ");
         int base = input.nextInt();
-        System.out.print("Please enter the exponent value: ");
-        int exp = input.nextInt();
+        System.out.print("Please input the exponential value: ");
+        int power = input.nextInt();
 
-        power(base, exp);
+        System.out.println(power(base, power));
     }
+
 }
