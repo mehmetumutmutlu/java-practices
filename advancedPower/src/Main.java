@@ -13,9 +13,9 @@ public class Main {
         System.out.print("Please input the base value: ");
         int base = input.nextInt();
         System.out.print("Please input the exponential value: ");
-        int power = input.nextInt();
+        int exp = input.nextInt();
 
-        System.out.println(power(base, power));
+        System.out.println(power(base, exp));
     }
 
 }
