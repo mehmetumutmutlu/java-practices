@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/dublicatedEvens.iml" filepath="$PROJECT_DIR$/dublicatedEvens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duplicatedEvens.iml" filepath="$PROJECT_DIR$/duplicatedEvens.iml" />
     </modules>
   </component>
 </project>
