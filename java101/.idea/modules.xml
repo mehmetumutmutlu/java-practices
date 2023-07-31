@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/loops/atm/atm.iml" filepath="$PROJECT_DIR$/loops/atm/atm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamental concepts and variables/bmiCalculator/bmiCalculator.iml" filepath="$PROJECT_DIR$/fundamental concepts and variables/bmiCalculator/bmiCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals/calculator/calculator.iml" filepath="$PROJECT_DIR$/conditionals/calculator/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals/chinaZodiac/chinaZodiac.iml" filepath="$PROJECT_DIR$/conditionals/chinaZodiac/chinaZodiac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamental concepts and variables/circleCalculator/circleCalculator.iml" filepath="$PROJECT_DIR$/fundamental concepts and variables/circleCalculator/circleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/combination/combination.iml" filepath="$PROJECT_DIR$/loops/combination/combination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/divideby3and4/divideby3and4.iml" filepath="$PROJECT_DIR$/loops/divideby3and4/divideby3and4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/drawDiamond/drawDiamond.iml" filepath="$PROJECT_DIR$/loops/drawDiamond/drawDiamond.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/evenNumbers/evenNumbers.iml" filepath="$PROJECT_DIR$/loops/evenNumbers/evenNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals/eventRecommendation/eventRecommendation.iml" filepath="$PROJECT_DIR$/conditionals/eventRecommendation/eventRecommendation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/loops/fibonacci/fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/gcfAndLCM/gcfAndLCM.iml" filepath="$PROJECT_DIR$/loops/gcfAndLCM/gcfAndLCM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamental concepts and variables/greengrocer/greengrocer.iml" filepath="$PROJECT_DIR$/fundamental concepts and variables/greengrocer/greengrocer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/harmonics/harmonics.iml" filepath="$PROJECT_DIR$/loops/harmonics/harmonics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamental concepts and variables/hypotenuseCalculator/hypotenuseCalculator.iml" filepath="$PROJECT_DIR$/fundamental concepts and variables/hypotenuseCalculator/hypotenuseCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java101.iml" filepath="$PROJECT_DIR$/.idea/java101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals/leapYearCalculator/leapYearCalculator.iml" filepath="$PROJECT_DIR$/conditionals/leapYearCalculator/leapYearCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/minAndMax/minAndMax.iml" filepath="$PROJECT_DIR$/loops/minAndMax/minAndMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamental concepts and variables/passedOrFailed/passedOrFailed.iml" filepath="$PROJECT_DIR$/fundamental concepts and variables/passedOrFailed/passedOrFailed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/perfectNumber/perfectNumber.iml" filepath="$PROJECT_DIR$/loops/perfectNumber/perfectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals/planeTicketSystem/planeTicketSystem.iml" filepath="$PROJECT_DIR$/conditionals/planeTicketSystem/planeTicketSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/power/power.iml" filepath="$PROJECT_DIR$/loops/power/power.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/power3and4/power3and4.iml" filepath="$PROJECT_DIR$/loops/power3and4/power3and4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/primeNumber/primeNumber.iml" filepath="$PROJECT_DIR$/loops/primeNumber/primeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/revertedTriangle/revertedTriangle.iml" filepath="$PROJECT_DIR$/loops/revertedTriangle/revertedTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals/sorter/sorter.iml" filepath="$PROJECT_DIR$/conditionals/sorter/sorter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/sumUnits/sumUnits.iml" filepath="$PROJECT_DIR$/loops/sumUnits/sumUnits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamental concepts and variables/taximeter/taximeter.iml" filepath="$PROJECT_DIR$/fundamental concepts and variables/taximeter/taximeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals/userSystem/userSystem.iml" filepath="$PROJECT_DIR$/conditionals/userSystem/userSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamental concepts and variables/vatCalculator/vatCalculator.iml" filepath="$PROJECT_DIR$/fundamental concepts and variables/vatCalculator/vatCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals/zodiacFinder/zodiacFinder.iml" filepath="$PROJECT_DIR$/conditionals/zodiacFinder/zodiacFinder.iml" />
+    </modules>
+  </component>
+</project>
