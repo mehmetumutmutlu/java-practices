@@ -1,2 +1,2 @@
 # java-practices
-My practices on Java
+These are my training practices on the Patika Java Course.
