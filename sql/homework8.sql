@@ -59,7 +59,7 @@ insert into employee (first_name, last_name, email, birthday) values ('Willi', '
 
 UPDATE employee
 SET birthday = '1900-01-01'
-WHERE birthday = null;
+WHERE birthday IS null;
 
 UPDATE employee
 SET first_name = 'Jass'
@@ -78,10 +78,10 @@ SET last_name = 'McKaile'
 WHERE last_name = 'MacKaile';
 
 DELETE FROM employee
-WHERE email = null;
+WHERE email IS null;
 
 DELETE FROM employee
-WHERE birthday = null;
+WHERE birthday IS null;
 
 DELETE FROM employee
 WHERE birthday LIKE '2020%';
