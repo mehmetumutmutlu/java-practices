@@ -3,8 +3,8 @@ CREATE TABLE employee(
     first_name VARCHAR(50) NOT NULL,
     last_name VARCHAR(50) NOT NULL,
     email VARCHAR(100),
-    birthday DATE;
-)
+    birthday DATE
+);
 
 insert into employee (first_name, last_name, email, birthday) values ('Jazmin', 'Frankcomb', 'jfrankcomb0@google.ru', '2016-12-09');
 insert into employee (first_name, last_name, email, birthday) values ('Westbrooke', 'Powdrill', null, '2005-11-11');
