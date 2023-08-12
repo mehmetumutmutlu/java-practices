@@ -66,7 +66,7 @@ SET first_name = 'Jass'
 WHERE first_name = 'Yasmeen';
 
 UPDATE employee
-SET email = null
+SET email IS null
 WHERE NOT (email LIKE '%.com');
 
 UPDATE employee
